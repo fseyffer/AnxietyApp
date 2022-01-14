@@ -57,7 +57,6 @@ struct ContentView: View {
                     })
                     // Button asthetics
                     .aspectRatio(contentMode: .fit)
-                    .cornerRadius(12)
                     .border(Color(MainColor))
                     .padding()
                 }
